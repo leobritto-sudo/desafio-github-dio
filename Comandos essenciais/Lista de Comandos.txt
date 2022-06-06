@@ -1,0 +1,15 @@
+COMANDOS ESSENCIAIS DO GIT
+
+- git init (Inicia um repositório local)
+==========================================================================
+- git clone (Clona um repositório para a máquina local)
+==========================================================================
+- git status (Mostra o status)
+==========================================================================
+- git add . (Adiciona todos os arquivos para serem commitados)
+==========================================================================
+- git add <filename> (Adiciona um arquivo específico para ser commitado)
+==========================================================================
+- git commit -m "Message" (Faz um commit junto com sua mensagem)
+==========================================================================
+- git push origin main (Empurra o commit para o repositório remoto)
